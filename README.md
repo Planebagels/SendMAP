@@ -1,3 +1,5 @@
+# IMPORTANT: this version of SendMap is old, see master1.1 for improved code with more features
+
 # SendMAP
 sends an email of a map, which you have to specify in a google spreadsheet
 
